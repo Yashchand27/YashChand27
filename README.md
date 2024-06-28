@@ -5,3 +5,11 @@ Aspiring Data Analyst with a passion for uncovering insights through data. Exper
 * Bachelor of commerce honours in accounting
 * Currently pursuing the Codebasics bootcamp 3.0 
 ## Technical Tools
+* Excel
+* PowerBI
+* MySQL
+* Python
+* Wordpress
+* Google ads
+  ## Let's Connect
+  
