@@ -21,8 +21,9 @@ Aspiring Data Analyst with a passion for uncovering insights through data. Exper
 <a href="https://linkedin.com/in/yash-chand/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="yash-chand/" height="29" width="120" /></a>
 </p> 
 <p align="left">
-<a href="yashchand2627@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="yash-chand/" height="29" width="120" /></a>
+<a href="yashchand2627@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="yash-chand/" height="29" width="120" /></a>
 </p> 
+
 
 
 
