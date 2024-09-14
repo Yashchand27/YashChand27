@@ -6,6 +6,7 @@ Aspiring Data Analyst with a passion for uncovering insights through data. Exper
 * 🌱 Aspiring Data Analyst
 * 🎓 Bachelor of Commerce Honours in Accounting
 * 💻 Currently pursuing the Codebasics Bootcamp 3.0
+* [[Portfolio](https://codebasics.io/portfolio/Yash-Chand)
 ## Technical Tools
  ![](https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white)
  ![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black)
